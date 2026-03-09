@@ -1,4 +1,4 @@
-package usecase5;
+package usecase6;
 
 public class Reservation {
 
