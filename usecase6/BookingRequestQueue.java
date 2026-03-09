@@ -1,4 +1,4 @@
-package usecase5;
+package usecase6;
 
 import java.util.LinkedList;
 import java.util.Queue;
